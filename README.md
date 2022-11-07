@@ -11,14 +11,17 @@ Demo:  <a href="https://t.me/AegislashBot">@AegislashBot</a>
 - [x] Mute e Unmute
 - [x] Warns
 - [x] Antispam
-- [ ] Antiflood
+- [x] Antiflood
+- [x] Welcome Messages
+- [x] Rules
+- [x] Night mode
 - [ ] Media Block
 - [ ] Channel forward
 - [ ] Play cicirinella
 - [ ] Social notifications
-- [ ] Night mode
+- [ ] Staff
+- [ ] Extended plugins compatibility
 - [ ] Banned Words
-- [ ] Welcome Messages
 - [ ] Banned Words
 - [ ] Personal Commands
 - - -
